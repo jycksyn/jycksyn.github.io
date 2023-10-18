@@ -13,6 +13,7 @@
     "@mdx-js/react": "^2.3.0",
     "@next/mdx": "^13.5.5",
     "@types/mdx": "^2.0.8",
+    "clsx": "^2.0.0",
     "next": "13.5.5",
     "react": "^18",
     "react-dom": "^18"

@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import './globals.css'
 import { roboto } from '@/lib/fonts'
+import clsx from 'clsx'
 
 export const metadata: Metadata = {
   title: 'Create Next App',
@@ -14,7 +15,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={roboto.className}>{children}</body>
+      <body className={clsx(roboto.className, "bg-amber-200 text-amber-900")}>
+        <main className="max-w-xl m-auto mt-4 flex flex-col gap-2">
+          {children}
+        </main>
+      </body>
     </html>
   )
 }

@@ -11,7 +11,7 @@ const Experience: FC<{
     description?: ReactNode
 }> = ({children, organization, image, title, description}) => {
     return (
-        <article className="flex flex-col sm:flex-row items-start rounded-xl border-dashed gap-4 border-4 border-amber-900 p-4">
+        <article className="flex flex-col sm:flex-row items-start rounded-xl border-dashed gap-4 border-4 border-amber-800 p-4">
             {image && <img className="rounded-lg aspect-4/3 object-cover w-60" src={image} />}
             <div className="flex-1 px-2 flex flex-col gap-1 justify-start items-start">
                 <h3 className={clsx('text-2xl font-bold', robotoSlab.className)}>{organization}</h3>

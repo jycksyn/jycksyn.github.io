@@ -11,7 +11,7 @@ const Header: FC<{
     description: ReactNode
 }> = ({children, logo, screenshot, title, description}) => {
     return (
-        <article className="flex flex-col items-stretch rounded border-dashed gap-4 border-4 border-amber-900 p-4">
+        <article className="flex flex-col items-stretch rounded-xl border-dashed gap-4 border-4 border-amber-900 p-4">
             <header className="flex flex-row items-center gap-4">
                 <img src={logo} className="w-12 rounded-lg" />
                 <div className="flex-1 px-2 flex flex-col gap-2 justify-start items-start">

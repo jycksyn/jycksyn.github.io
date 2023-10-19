@@ -3,12 +3,15 @@ import Icon from "src/components/Icon";
 import Icons from "src/components/Icons";
 import Project from "src/components/Project";
 import Projects from "src/components/Projects";
+import Tool from "src/components/Tool";
+import ToolsUsed from "src/components/ToolsUsed";
+import tools from "src/lib/tools"
 
 <Header image="/headshot.jpg">
 
     # Jackson Kubin
 
-    A computer science student making cool things that enhance *real people's lives*.
+    A computer science student making cool things that enhance real people's lives.
 
     <Icons>
         <Icon href="https://github.com/jycksyn" image="/social/github.svg" />
@@ -28,18 +31,7 @@ import Projects from "src/components/Projects";
         title="lyrmyx"
         description="Create and share lyric videos in less than 15 minutes, rendered instantly in your browser."
         screenshot="/projects/screenshots/lyrmyx.png">
-        <Icons sm>
-            <Icon image="/tools/node.svg" />
-            <Icon image="/tools/react.svg" />
-            <Icon image="/tools/next-js.svg" />
-            <Icon image="/tools/ts.svg" />
-            <Icon image="/tools/css.svg" />
-            <Icon image="/tools/html.svg" />
-            <Icon image="/tools/firebase.svg" />
-            <Icon image="/tools/remotion.svg" />
-            <Icon image="/tools/firebase.svg" />
-            <Icon image="/tools/mui.svg" />
-        </Icons>
+        <ToolsUsed tools={["Node", "React", "NextJS", "HTML", "CSS", "TypeScript", "Firebase", "Remotion", "MUI"]} />
     </Project>
 
 </Projects>

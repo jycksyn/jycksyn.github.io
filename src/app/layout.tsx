@@ -16,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={clsx(roboto.className, "bg-amber-200 text-amber-900")}>
-        <main className="max-w-2xl m-auto p-4 flex flex-col gap-8">
+        <main className="max-w-3xl m-auto p-4 flex flex-col gap-8">
           {children}
         </main>
       </body>

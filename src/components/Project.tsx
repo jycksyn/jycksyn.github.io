@@ -3,7 +3,7 @@ import clsx from "clsx";
 import { title } from "process";
 import { FC, ReactNode } from "react";
 
-const Header: FC<{
+const Project: FC<{
     children: ReactNode,
     logo: string,
     screenshot: string,
@@ -20,9 +20,9 @@ const Header: FC<{
             </header>
             <p>{description}</p>
             {children}
-            {screenshot && <img className="rounded-lg aspect-[4/3]" src={screenshot} />}
+            {screenshot && <img className="rounded-lg aspect-4/3" src={screenshot} />}
         </article>
     );
 };
 
-export default Header;
+export default Project;

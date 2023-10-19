@@ -22,6 +22,9 @@ const config: Config = {
         roman: 'upper-roman',
       }
     },
+    aspectRatio: {
+      '4/3': '4 / 3',
+    },
   },
   plugins: [],
 }

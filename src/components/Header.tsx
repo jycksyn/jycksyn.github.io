@@ -1,5 +1,4 @@
-import { ReactNode } from "@mdx-js/react/lib";
-import { FC } from "react";
+import { FC, ReactNode } from "react";
 
 const Header: FC<{
     image: string,

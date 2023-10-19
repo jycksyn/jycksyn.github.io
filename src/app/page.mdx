@@ -3,7 +3,9 @@ import Icon from "src/components/Icon";
 import Icons from "src/components/Icons";
 import Project from "src/components/Project";
 import Projects from "src/components/Projects";
+import Section from "src/components/Section";
 import Experience from "src/components/Experience";
+import Education from "src/components/Education";
 import ToolsUsed from "src/components/ToolsUsed";
 
 <Header image="/headshot.jpg">
@@ -13,6 +15,7 @@ import ToolsUsed from "src/components/ToolsUsed";
     A computer science student making cool things that enhance real people's lives.
 
     <Icons>
+        <Icon href="mailto:jpkubin@wm.edu" image="/social/email.svg" />
         <Icon href="https://github.com/jycksyn" image="/social/github.svg" />
         <Icon href="https://www.linkedin.com/in/jacksonkubin/" image="/social/linkedin.svg" />
     </Icons>
@@ -46,13 +49,33 @@ import ToolsUsed from "src/components/ToolsUsed";
 
 </section>
 
+<section>
+
+# Education
+
+<Section>
+
+    <Education
+        image="/wm-cypher.svg"
+        school="William & Mary"
+        degree="B.S. in Computer Science, Minor in Linguistics">
+        
+        Expecting to graduate in May 2025
+
+        GPA: 4.0
+    
+    </Education>
+
+</Section>
+
+</section>
 
 
 <section>
 
 # Leadership
 
-<section class="flex flex-col mt-3 gap-4">
+<Section>
 
     <Experience
         image="/experiences/acm-slides.png"
@@ -64,7 +87,7 @@ import ToolsUsed from "src/components/ToolsUsed";
     
     </Experience>
 
-</section>
+</Section>
 
 </section>
 
@@ -72,7 +95,7 @@ import ToolsUsed from "src/components/ToolsUsed";
 
 # Experiences
 
-<section class="flex flex-col mt-3 gap-4">
+<Section>
 
     <Experience
         image="/experiences/chartway.JPG"
@@ -85,6 +108,9 @@ import ToolsUsed from "src/components/ToolsUsed";
     
     </Experience>
 
-</section>
+</Section>
 
 </section>
+
+
+

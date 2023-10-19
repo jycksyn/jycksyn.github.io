@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg2116"
+   sodipodi:docname="firebase.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2120" />
+  <sodipodi:namedview
+     id="namedview2118"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="3.0508475"
+     inkscape:cy="12.050847"
+     inkscape:window-width="1128"
+     inkscape:window-height="730"
+     inkscape:window-x="-6"
+     inkscape:window-y="523"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2116" />
+  <path
+     d="m3.89 15.673 2.365-15.212a.542.542 0 0 1 1.015-.172l2.543 4.771zm16.795 3.691-2.252-13.999a.543.543 0 0 0 -.918-.295l-14.2 14.294 7.857 4.428a1.62 1.62 0 0 0 1.587 0zm-6.385-12.216-1.82-3.482a.542.542 0 0 0 -.96 0l-7.99 14.318z"
+     id="path2114"
+     style="fill:#92400e;fill-opacity:1" />
+</svg>

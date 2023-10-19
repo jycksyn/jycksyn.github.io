@@ -1,11 +1,12 @@
-import { ReactNode } from "@mdx-js/react/lib";
-import { FC } from "react";
+import clsx from "clsx";
+import { FC, ReactNode } from "react";
 
 const Icons: FC<{
-    children: ReactNode
-}> = ({children}) => {
+    children: ReactNode,
+    sm: boolean
+}> = ({children, sm}) => {
     return (
-        <div className="flex flex-row gap-4">
+        <div className={clsx("flex flex-row gap-4 flex-wrap", sm ? "[&_img]:h-6" : "[&_img]:h-8")}>
             {children}
         </div>
     );

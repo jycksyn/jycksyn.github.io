@@ -10,7 +10,7 @@ const ToolsUsed: FC<{
     
     return (
         <Icons sm>
-            {tools.map((tool) => <Tool tool={toolsAvailable[tool]} />)}
+            {tools.map((tool) => <Tool key={tool} tool={toolsAvailable[tool]} />)}
         </Icons>
     )
 };

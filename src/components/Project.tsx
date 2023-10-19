@@ -19,8 +19,8 @@ const Header: FC<{
                 </div>
             </header>
             <p>{description}</p>
-            {screenshot && <img className="rounded-lg aspect-[4/3]" src={screenshot} />}
             {children}
+            {screenshot && <img className="rounded-lg aspect-[4/3]" src={screenshot} />}
         </article>
     );
 };

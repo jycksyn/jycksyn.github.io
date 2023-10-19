@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="none"
+   viewBox="0 0 39.999999 40.000001"
+   stroke-width="1.5"
+   stroke="currentColor"
+   class="w-6 h-6"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="dutybot.svg"
+   width="40"
+   height="40"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs23">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1110"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="9.1041666"
+     inkscape:cx="16.366133"
+     inkscape:cy="25.318078"
+     inkscape:window-width="1128"
+     inkscape:window-height="730"
+     inkscape:window-x="460"
+     inkscape:window-y="1145"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <rect
+     style="fill:#581c87;fill-opacity:1;stroke:none;stroke-width:3.661;stroke-opacity:1;paint-order:markers fill stroke"
+     id="rect540"
+     width="40"
+     height="40"
+     x="0"
+     y="0" />
+  <g
+     id="g1146"
+     transform="matrix(-1.1681184,0,0,1.1681184,34.017421,3.286748)"
+     style="fill:#ffffff;fill-opacity:1;stroke:#581c87">
+    <g
+       id="path1076-6"
+       style="fill:#ffffff;fill-opacity:1" />
+    <g
+       id="path1112"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         id="path352"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-linecap:round;-inkscape-stroke:none"
+         d="M 18.982422,21.496094 12.033203,24.546875 5.0175781,21.59375 v 7.160156 l 7.0292969,-2.880859 6.935547,2.792969 v -0.90625 z m -3.537109,-5.376953 c -0.406078,-0.08013 -0.800304,0.183849 -0.88086,0.589843 -0.116205,0.587365 -0.451648,1.147418 -0.916015,1.525391 -0.464376,0.37798 -1.08099,0.593352 -1.679688,0.587891 h -0.002 c -0.581048,-0.0053 -1.173365,-0.218375 -1.625,-0.583985 -0.4515883,-0.365609 -0.7839557,-0.901537 -0.9101094,-1.46875 -0.089425,-0.405496 -0.4913039,-0.661157 -0.8964843,-0.570312 -0.4037622,0.09036 -0.6580798,0.490626 -0.5683594,0.894531 0.201655,0.906682 0.7077544,1.726125 1.4296875,2.310547 0.7219326,0.584422 1.6297946,0.909522 2.5585936,0.917969 0.958051,0.0087 1.895642,-0.320989 2.638672,-0.925782 C 15.336787,18.791687 15.851169,17.939847 16.037109,17 16.117153,16.593293 15.852101,16.198775 15.445313,16.119141 Z M 8.9511719,12.341797 c -0.6814718,0 -1.25,0.568528 -1.25,1.25 0,0.681472 0.5685282,1.25 1.25,1.25 0.6814718,0 1.2500001,-0.568528 1.2500001,-1.25 0,-0.681472 -0.5685283,-1.25 -1.2500001,-1.25 z m 6.0976561,0 c -0.681472,0 -1.25,0.568528 -1.25,1.25 0,0.681472 0.568528,1.25 1.25,1.25 0.681472,0 1.25,-0.568528 1.25,-1.25 0,-0.681472 -0.568528,-1.25 -1.25,-1.25 z M 11.25,4.9707031 V 7.84375 h 1.5 V 4.9707031 Z M 12,0.0078125 c -1.509898,0 -2.75,1.2401019 -2.75,2.75 0,1.5098981 1.240102,2.75 2.75,2.75 1.509898,0 2.75,-1.2401019 2.75,-2.75 0,-1.5098981 -1.240102,-2.75 -2.75,-2.75 z m 0,1.5 c 0.699239,0 1.25,0.5507613 1.25,1.25 0,0.6992387 -0.550761,1.25 -1.25,1.25 -0.699239,0 -1.25,-0.5507613 -1.25,-1.25 0,-0.6992387 0.550761,-1.25 1.25,-1.25 z m 0,5.1210937 c -4.5633086,0 -8.2812498,3.7179418 -8.28125,8.2812498 -3e-7,4.563309 3.717941,8.28125 8.28125,8.28125 4.563309,1e-6 8.28125,-3.717941 8.28125,-8.28125 0,-4.563309 -3.717941,-8.2812501 -8.28125,-8.2812498 z m 0,1.7363282 c 3.625052,-3e-7 6.544922,2.9198706 6.544922,6.5449216 0,3.625052 -2.91987,6.544922 -6.544922,6.544922 -3.6250518,0 -6.5449221,-2.91987 -6.5449219,-6.544922 C 5.4550783,11.285105 8.3749485,8.3652344 12,8.3652344 Z"
+         sodipodi:nodetypes="ccccccccccsccccccscsccsssssssssscccccssssssssssssssssssss" />
+    </g>
+  </g>
+</svg>

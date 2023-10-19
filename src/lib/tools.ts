@@ -48,6 +48,31 @@ const tools: Record<string, Tool> = {
         name: 'TypeScript',
         href: "https://www.typescriptlang.org/",
     },
+    Svelte: {
+        image: 'svelte.svg',
+        name: 'SvelteKit',
+        href: "https://svelte.dev/",
+    },
+    PostgreSQL: {
+        image: 'postgresql.svg',
+        name: 'PostgreSQL',
+        href: "https://www.postgresql.org/",
+    },
+    Prisma: {
+        image: 'prisma.svg',
+        name: 'Prisma',
+        href: "https://www.prisma.io/",
+    },
+    CockroachDB: {
+        image: 'cockroachdb.svg',
+        name: 'CockroachDB',
+        href: "https://www.cockroachlabs.com/",
+    },
+    Lucia: {
+        image: 'lucia.svg',
+        name: 'Lucia (Auth)',
+        href: "https://lucia-auth.com/",
+    },
 }
 
 export default tools;
